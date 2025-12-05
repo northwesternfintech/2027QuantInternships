@@ -375,6 +375,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 |Role|Links|
 |-------|-------|
 |SWE|[✅ Tech](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8062751002)|
+|QR|[✅ ](https://www.mwam.com/quantitative-research-internship/)|
 
 
 ## Maven Securities
