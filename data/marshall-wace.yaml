@@ -1,9 +1,13 @@
 name: "Marshall Wace"
 website: "https://www.mwam.com/join-us/internships/"
-locations: "NYC"
+locations: "NYC, London"
 notes: ""
 roles:
   - role_type: "SWE"
     links:
       - url: "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8062751002"
         label: "Tech"
+  - role_type: "QR"
+    links:
+      - url: "https://www.mwam.com/quantitative-research-internship/"
+        label: "Quantitative Researcher Intern (Summer 2026)"
