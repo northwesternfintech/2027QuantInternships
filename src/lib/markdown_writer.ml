@@ -1,7 +1,7 @@
 open Types
 
 let make_url url label =
-  Printf.sprintf "[%s](%s)" label url
+  if String.length url = 0 then "not available" else Printf.sprintf "[%s](%s)" label url
 ;;
 
 module T = struct
