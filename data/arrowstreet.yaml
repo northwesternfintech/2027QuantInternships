@@ -2,10 +2,4 @@ name: "Arrowstreet Capital"
 website: "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers"
 locations: "Boston"
 notes: "Fully Systematic. Very High PnL per head."
-roles:
-  - role_type: "SWE"
-    links:
-      - url: "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2026_R1338"
-  - role_type: "QR"
-    links:
-      - url: "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2026_R1340"
+roles: []

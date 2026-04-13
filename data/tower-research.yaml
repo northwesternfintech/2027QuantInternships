@@ -2,13 +2,4 @@ name: "Tower Research"
 website: "https://www.tower-research.com/open-positions"
 locations: "NYC"
 notes: "Super clustered into teams - traders tend to be all in one trader-researchers, while devs focus on the platform and general technology."
-roles:
-  - role_type: "SWE"
-    links:
-      - url: "https://tower-research.com/open-positions/?gh_jid=6790327"
-  - role_type: "QR"
-    links:
-      - url: "https://tower-research.com/open-positions/?gh_jid=6626259"
-  - role_type: "QT"
-    links:
-      - url: "https://tower-research.com/open-positions/?gh_jid=7062358"
+roles: []

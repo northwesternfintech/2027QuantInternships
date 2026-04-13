@@ -2,11 +2,4 @@ name: "Millenium"
 website: "https://www.mlp.com/job-listings/"
 locations: "NYC"
 notes: ""
-roles:
-  - role_type: "SWE"
-    links:
-      - url: "https://campusjobs.mlp.com/careers?pid=755944533187"
-  - role_type: "QR"
-    links:
-      - url: "https://campusjobs.mlp.com/careers?pid=755944544682"
-
+roles: []

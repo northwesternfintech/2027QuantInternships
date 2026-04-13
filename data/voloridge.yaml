@@ -2,10 +2,4 @@ name: "Voloridge"
 website: "https://www.voloridge.com/join-our-team"
 locations: "Jupiter, Florida"
 notes: ""
-roles:
-  - role_type: "SWE"
-    links:
-      - url: "https://voloridge-investment-management.hiringthing.com/job/889648/research-software-engineer-intern-2026"
-  - role_type: "QR"
-    links:
-      - url: "https://voloridge-investment-management.hiringthing.com/job/889639/quantitative-research-intern-2026"
+roles: []

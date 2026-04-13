@@ -2,7 +2,4 @@ name: "Two Sigma"
 website: "https://careers.twosigma.com/careers/OpenRoles/?5086=%5B16718737,16718736%5D&5086_format=3149&listFilterMode=1&jobRecordsPerPage=10&"
 locations: "NYC"
 notes: "Founded by ex-DE-Shaw people. Collaborative and chill culture. The org is mostly composed of QRs and SWEs."
-roles:
-  - role_type: "QR"
-    links:
-      - url: "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2026-Summer/13257"
+roles: []

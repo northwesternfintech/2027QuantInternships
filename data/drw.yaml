@@ -2,13 +2,4 @@ name: "DRW"
 website: "https://drw.com/work-at-drw/category/campus"
 locations: "Chicago"
 notes: "Perception is that DRWers tend to have a good WLB but teams are usually siloed. Known for their PM type culture and relatively fluid roles."
-roles:
-  - role_type: "SWE"
-    links:
-      - url: "https://www.drw.com/work-at-drw/listings/software-developer-intern-3157977"
-  - role_type: "QR"
-    links:
-      - url: "https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3151348"
-  - role_type: "QT"
-    links:
-      - url: "https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3141981"
+roles: []

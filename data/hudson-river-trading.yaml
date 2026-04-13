@@ -2,17 +2,4 @@ name: "Hudson River Trading"
 website: "https://www.hudsonrivertrading.com/careers/"
 locations: "NYC"
 notes: "The Algo Dev role at HRT is essentially Quantitative Research. HRT's culture seems to be pretty similar to JS and pay is similar too. HRT has a bigger focus on ML with their dedicated HRT AI Labs. Known for recruiting UG QRs, and for very collegial culture."
-roles:
-  - role_type: "SWE"
-    links:
-      - url: "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026-2/"
-  - role_type: "QR"
-    links:
-      - url: "https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2026-2/"
-        label: "Algo Dev"
-  - role_type: "QT"
-    links:
-      - url: "https://www.hudsonrivertrading.com/hrt-job/algorithm-trader-quantitative-trader-internship-summer-2026/"
-  - role_type: "Sophomore"
-    links:
-      - url: "https://www.hudsonrivertrading.com/hrt-job/sophomore-internship-summer-2026/"
+roles: []

@@ -2,10 +2,4 @@ name: "Chicago Trading Company"
 website: "https://www.chicagotrading.com/search#search-results"
 locations: "Chicago"
 notes: "Very trader led shop. Shares an office with Group One Trading."
-roles:
-  - role_type: "SWE"
-    links:
-      - url: "https://grnh.se/2f36ab9q5us"
-  - role_type: "QT"
-    links:
-      - url: "https://grnh.se/28t263745us"
+roles: []

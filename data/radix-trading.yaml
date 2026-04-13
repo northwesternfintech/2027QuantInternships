@@ -2,7 +2,4 @@ name: "Radix Trading"
 website: "https://radixtrading.co/"
 locations: "Chicago"
 notes: "Founded by ex-Citadel people. Radix calls SWEs Quantitative Technologists. Extremely secretive."
-roles:
-  - role_type: "SWE"
-    links:
-      - url: "https://job-boards.greenhouse.io/radixuniversity/jobs/7842108002"
+roles: []

@@ -2,7 +2,4 @@ name: "Geneva Trading"
 website: "https://www.genevatrading.com/careers-open-positions/"
 locations: "Chicago"
 notes: ""
-roles:
-  - role_type: "QT"
-    links:
-      - url: "https://job-boards.greenhouse.io/genevatrading/jobs/4767553007"
+roles: []

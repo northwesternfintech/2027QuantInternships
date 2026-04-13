@@ -2,26 +2,4 @@ name: "Optiver"
 website: "https://optiver.com/working-at-optiver/career-opportunities/?numberposts=10"
 locations: "Chicago, Austin"
 notes: "Tends to have the highest pay out of the three big Dutch firms (IMC, Optiver, Flow Traders) due to their marble bonus system."
-roles:
-  - role_type: "SWE"
-    links:
-      - url: "https://optiver.com/working-at-optiver/career-opportunities/7973726002/"
-        label: "Chicago"
-      - url: "https://optiver.com/working-at-optiver/career-opportunities/7973725002/"
-        label: "Austin"
-  - role_type: "QR"
-    links:
-      - url: "https://optiver.com/working-at-optiver/career-opportunities/8033071002/"
-        label: "Chicago"
-      - url: "https://optiver.com/working-at-optiver/career-opportunities/7967593002/"
-        label: "Austin"
-  - role_type: "QT"
-    links:
-      - url: "https://optiver.com/working-at-optiver/career-opportunities/7832160002/"
-        label: "Chicago"
-  - role_type: "Hardware"
-    links:
-      - url: "https://optiver.com/working-at-optiver/career-opportunities/8033372002/"
-        label: "Chicago"
-      - url: "https://optiver.com/working-at-optiver/career-opportunities/8033390002/"
-        label: "Austin"
+roles: []

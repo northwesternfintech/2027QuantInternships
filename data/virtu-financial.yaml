@@ -2,10 +2,4 @@ name: "Virtu Financial"
 website: "https://www.virtu.com/careers/"
 locations: "NYC, Austin"
 notes: "Known for being very HFT MM heavy."
-roles:
-  - role_type: "SWE"
-    links:
-      - url: "https://job-boards.greenhouse.io/virtu/jobs/7848570002"
-  - role_type: "QT"
-    links:
-      - url: "https://job-boards.greenhouse.io/virtu/jobs/7848562002"
+roles: []

@@ -2,13 +2,4 @@ name: "Aquatic"
 website: "https://boards.greenhouse.io/aquaticcapitalmanagement"
 locations: "Chicago"
 notes: "Very Small, Citadel Spinoff."
-roles:
-  - role_type: "SWE"
-    links:
-      - url: "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002"
-  - role_type: "QR"
-    links:
-      - url: "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7985726002"
-  - role_type: "BizOps (AI/LLM)"
-    links:
-      - url: "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8071545002"
+roles: []

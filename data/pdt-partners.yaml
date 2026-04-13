@@ -2,7 +2,4 @@ name: "PDT Partners"
 website: "https://pdtpartners.com/careers"
 locations: "NYC"
 notes: "Founded by Pete Muller, very collaborative and secretive culture similar to Rentech. Recruits college students for mainly SWE but some SWE/QR combo roles (dependent on team). Exclusively recruits PhD students for full-time QR roles."
-roles:
-  - role_type: "SWE"
-    links:
-      - url: "https://job-boards.greenhouse.io/pdtpartners/jobs/7073180"
+roles: []

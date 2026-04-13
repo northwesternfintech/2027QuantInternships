@@ -2,7 +2,4 @@ name: "Cubist"
 website: "https://careers.point72.com/?experience=internships"
 locations: "New York City"
 notes: "The quant arm of Steve Cohen's Point72 hedge fund. Pretty small and school selective."
-roles:
-  - role_type: "SWE"
-    links:
-      - url: "https://careers.point72.com/CSJobDetail?jobName=quantitative-software-developer-intern&jobCode=CSS-0011537&location=New%20York&locale=English&retURL=/CSCareerSearch"
+roles: []

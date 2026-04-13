@@ -2,10 +2,4 @@ name: "Bridgewater"
 website: "https://www.bridgewater.com/working-at-bridgewater/job-openings"
 locations: "Westport, CT"
 notes: "Ray Dalio's firm. Very unique culture and interviews. Very School Selective."
-roles:
-  - role_type: "SWE"
-    links:
-      - url: "https://job-boards.greenhouse.io/bridgewater89/jobs/7950099002"
-  - role_type: "QR"
-    links:
-      - url: "https://job-boards.greenhouse.io/bridgewater89/jobs/7726966002"
+roles: []

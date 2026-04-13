@@ -2,7 +2,4 @@ name: "Flow Traders"
 website: "https://www.flowtraders.com/careers"
 locations: "NYC"
 notes: "Based in Amsterdam, where there are SWE roles. US internships are for traders. Primary focus is on ETFs. Pay tends be lower than IMC and Optiver. One of the only publicly traded quant funds."
-roles:
-  - role_type: "QT"
-    links:
-      - url: "https://www.flowtraders.com/careers/job-description/7166435"
+roles: []

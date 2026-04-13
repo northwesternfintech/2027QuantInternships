@@ -2,10 +2,4 @@ name: "Blackedge Capital"
 website: "https://boards.greenhouse.io/blackedgecapital"
 locations: "Chicago"
 notes: ""
-roles:
-  - role_type: "SWE"
-    links:
-      - url: "https://job-boards.greenhouse.io/blackedgecapital/jobs/4596128005"
-  - role_type: "QT"
-    links:
-      - url: "https://job-boards.greenhouse.io/blackedgecapital/jobs/4590418005"
+roles: []

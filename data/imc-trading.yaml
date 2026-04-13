@@ -2,17 +2,4 @@ name: "IMC Trading"
 website: "https://careers.imc.com/us/en/student-opportunities"
 locations: "Chicago"
 notes: "Known for a pretty chill, tech-like culture. They're a more systematic OMM."
-roles:
-  - role_type: "SWE"
-    links:
-      - url: "https://www.imc.com/us/careers/jobs/4580810101/"
-  - role_type: "QR"
-    links:
-      - url: "https://www.imc.com/us/careers/jobs/4580808101/"
-  - role_type: "QT"
-    links:
-      - url: "https://www.imc.com/us/careers/jobs/4580757101/"
-  - role_type: "ML"
-    links:
-      - url: "https://www.imc.com/us/careers/jobs/4608584101"
-        label: "ML Research"
+roles: []

@@ -1,16 +1,16 @@
-# Summer 2026 Quant Internships
+# Summer 2027 Quant Internships
 
 ## Contributing
 
 **This repository is auto-updated by a GitHub action. Please do not manually change this file.**
 
-Feel free to submit a new job posting or suggest a change by submitting a pull request 🙏
+Feel free to submit a new job posting or suggest a change by submitting a pull request 🙏. If you make a pull request, please update the corresponding data YAML file (or create a new one!) in the `./data` folder.
 
 Are you a firm looking to reach quant interns? Let us know at [nuft@u.northwestern.edu](mailto:nuft@u.northwestern.edu) and we will take care of adding your positions.
 
 
 ## Using This Repository
-All data are stored in the `./data` directory. Please see the `README.md` in there for instructions on how to maintain the YAML files. The data are parsed via OCaml, and then into Markdown. The output format is customisable in the Markdown_writer module. On creating a PR, a GitHub bot will update the README automatically.
+Please see the `README.md` in the `./data` folder for instructions on how to maintain the YAML files. The data are parsed via OCaml, and then into Markdown. The output format is customisable in the `Markdown_writer` module. On creating a PR, a GitHub bot will update the README automatically.
 
 
 ## Akuna Capital
@@ -22,8 +22,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ C++](https://akunacapital.com/job-details?gh_jid=6996427)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Python](https://akunacapital.com/job-details?gh_jid=7055471)|
-|QR|[✅ ](https://akunacapital.com/job-details?gh_jid=7055793)|
+
 
 
 ## Ansatz Capital
@@ -59,9 +58,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002)|
-|QR|[✅ ](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7985726002)|
-|BizOps (AI/LLM)|[✅ ](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8071545002)|
+
 
 
 ## Arrowstreet Capital
@@ -73,8 +70,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2026_R1338)|
-|QR|[✅ ](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2026_R1340)|
+
 
 
 ## Belvedere Trading
@@ -86,8 +82,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://jobs.lever.co/belvederetrading/eddfd030-1b27-46db-9ef6-5b65e1e2484c)|
-|QT|[✅ ](https://jobs.lever.co/belvederetrading/ec52b73e-54b8-4f87-909d-a74cb288dc4d)|
+
 
 
 ## Blackedge Capital
@@ -99,8 +94,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://job-boards.greenhouse.io/blackedgecapital/jobs/4596128005)|
-|QT|[✅ ](https://job-boards.greenhouse.io/blackedgecapital/jobs/4590418005)|
+
 
 
 ## Bridgewater
@@ -112,8 +106,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://job-boards.greenhouse.io/bridgewater89/jobs/7950099002)|
-|QR|[✅ ](https://job-boards.greenhouse.io/bridgewater89/jobs/7726966002)|
+
 
 
 ## Campbell and Company
@@ -137,8 +130,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://grnh.se/2f36ab9q5us)|
-|QT|[✅ ](https://grnh.se/28t263745us)|
+
 
 
 ## Citadel / Citadel Securities
@@ -150,9 +142,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/)|
-|QR|[✅ ](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/)|
-|QT|[✅ ](https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-us/)|
+
 
 
 ## 
@@ -176,7 +166,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://careers.point72.com/CSJobDetail?jobName=quantitative-software-developer-intern&jobCode=CSS-0011537&location=New%20York&locale=English&retURL=/CSCareerSearch)|
+
 
 
 ## DE Shaw
@@ -188,8 +178,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2026-5521)|
-|QT|[✅ ](https://www.deshaw.com/careers/proprietary-trading-intern-new-york-summer-2026-5379)|
+
 
 
 ## DRW
@@ -201,9 +190,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://www.drw.com/work-at-drw/listings/software-developer-intern-3157977)|
-|QR|[✅ ](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3151348)|
-|QT|[✅ ](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3141981)|
+
 
 
 ## Five Rings
@@ -215,9 +202,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008)|
-|QR|[✅ ](https://job-boards.greenhouse.io/fiveringsllc/jobs/4563183008)|
-|QT|[✅ ](https://job-boards.greenhouse.io/fiveringsllc/jobs/4613451008)|
+
 
 
 ## Flow Traders
@@ -229,7 +214,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|QT|[✅ ](https://www.flowtraders.com/careers/job-description/7166435)|
+
 
 
 ## G-Research
@@ -253,7 +238,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|QT|[✅ ](https://job-boards.greenhouse.io/genevatrading/jobs/4767553007)|
+
 
 
 ## GSA Capital
@@ -265,7 +250,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|QR|[✅ ](https://boards.greenhouse.io/embed/job_app?for=gsacapital&token=8016006002)|
+
 
 
 ## HAP Capital
@@ -301,10 +286,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026-2/)|
-|QR|[✅ Algo Dev](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2026-2/)|
-|QT|[✅ ](https://www.hudsonrivertrading.com/hrt-job/algorithm-trader-quantitative-trader-internship-summer-2026/)|
-|Sophomore|[✅ ](https://www.hudsonrivertrading.com/hrt-job/sophomore-internship-summer-2026/)|
+
 
 
 ## IMC Trading
@@ -316,10 +298,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://www.imc.com/us/careers/jobs/4580810101/)|
-|QR|[✅ ](https://www.imc.com/us/careers/jobs/4580808101/)|
-|QT|[✅ ](https://www.imc.com/us/careers/jobs/4580757101/)|
-|ML|[✅ ML Research](https://www.imc.com/us/careers/jobs/4608584101)|
+
 
 
 ## Jane Street
@@ -327,14 +306,11 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 **Locations**: NYC
 
-**Notes**: Founded by ex-SIG people. Tends to be more school-agnostic than other firms. General perception of JS is that it has a very comfortable and nerdy culture. Specializes in ETF market making, and uses OCaml as their primary programming language. Also has big offices in London and Hong Kong, and small offices in Singapore and Amsterdam.
+**Notes**: Founded by ex-SIG people. Tends to be more school-agnostic than other firms. General perception of JS is that it has a very comfortable and nerdy culture. Specializes in ETF market making, and uses OCaml as their primary programming language. Has big offices in London and Hong Kong. Opens roles in July.
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://www.janestreet.com/join-jane-street/position/8040547002/)|
-|QR|[✅ ](https://www.janestreet.com/join-jane-street/position/7979031002/)|
-|QT|[✅ ](https://www.janestreet.com/join-jane-street/position/8047137002/)|
-|Hardware|[✅ FPGA](https://www.janestreet.com/join-jane-street/position/8062455002/)|
+
 
 
 ## Jump Trading
@@ -346,11 +322,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://www.jumptrading.com/careers/7124769/)|
-|QR|[✅ ](https://www.jumptrading.com/careers/7026718/)|
-|QT|[✅ ](https://www.jumptrading.com/careers/6900970/)|
-|Hardware|[✅ FPGA](https://www.jumptrading.com/careers/7124905/)|
-|Data|[✅ ](https://www.jumptrading.com/careers/7125399/)|
+
 
 
 ## Mako Trading
@@ -374,7 +346,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ Tech](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8062751002)|
+
 
 
 ## Maven Securities
@@ -398,8 +370,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://campusjobs.mlp.com/careers?pid=755944533187)|
-|QR|[✅ ](https://campusjobs.mlp.com/careers?pid=755944544682)|
+
 
 
 ## Old Mission
@@ -423,10 +394,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ Chicago](https://optiver.com/working-at-optiver/career-opportunities/7973726002/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Austin](https://optiver.com/working-at-optiver/career-opportunities/7973725002/)|
-|QR|[✅ Chicago](https://optiver.com/working-at-optiver/career-opportunities/8033071002/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Austin](https://optiver.com/working-at-optiver/career-opportunities/7967593002/)|
-|QT|[✅ Chicago](https://optiver.com/working-at-optiver/career-opportunities/7832160002/)|
-|Hardware|[✅ Chicago](https://optiver.com/working-at-optiver/career-opportunities/8033372002/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Austin](https://optiver.com/working-at-optiver/career-opportunities/8033390002/)|
+
 
 
 ## PDT Partners
@@ -438,7 +406,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://job-boards.greenhouse.io/pdtpartners/jobs/7073180)|
+
 
 
 ## Peak6
@@ -474,7 +442,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://job-boards.greenhouse.io/radixuniversity/jobs/7842108002)|
+
 
 
 ## Renaissance
@@ -522,13 +490,11 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ SWE](https://careers.sig.com/job/9571/Software-Engineering-Internship-Summer-2026)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Quant Strategy Dev](https://careers.sig.com/job/9532/Quantitative-Strategy-Developer-Internship-Summer-2026)|
-|QR|[✅ ](https://careers.sig.com/job/9306/Quantitative-Research-Internship-Master-s-Summer-2026)|
-|QT|[✅ ](https://careers.sig.com/job/9377/Quantitative-Trader-Internship-Summer-2026)|
+
 
 
 ## Squarepoint
-**Website**: [Squarepoint](https://www.squarepoint-capital.com/careers)
+**Website**: [Squarepoint](https://www.squarepoint-capital.com/early-careers)
 
 **Locations**: NYC
 
@@ -536,7 +502,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|QR|[✅ ](https://www.squarepoint-capital.com/open-opportunities?id=243853)|
+
 
 
 ## TGS
@@ -560,9 +526,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://tower-research.com/open-positions/?gh_jid=6790327)|
-|QR|[✅ ](https://tower-research.com/open-positions/?gh_jid=6626259)|
-|QT|[✅ ](https://tower-research.com/open-positions/?gh_jid=7062358)|
+
 
 
 ## TransMarketGroup
@@ -574,8 +538,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://job-boards.greenhouse.io/transmarketgroup/jobs/4749906007?gh_jid=4749906007)|
-|QT|[✅ ](https://job-boards.greenhouse.io/transmarketgroup/jobs/4749915007?gh_jid=4749915007)|
+
 
 
 ## TrexQuant Investments LP
@@ -611,7 +574,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|QR|[✅ ](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2026-Summer/13257)|
+
 
 
 ## Valkyrie Trading
@@ -647,8 +610,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://job-boards.greenhouse.io/virtu/jobs/7848570002)|
-|QT|[✅ ](https://job-boards.greenhouse.io/virtu/jobs/7848562002)|
+
 
 
 ## Voleon
@@ -672,8 +634,7 @@ All data are stored in the `./data` directory. Please see the `README.md` in the
 
 |Role|Links|
 |-------|-------|
-|SWE|[✅ ](https://voloridge-investment-management.hiringthing.com/job/889648/research-software-engineer-intern-2026)|
-|QR|[✅ ](https://voloridge-investment-management.hiringthing.com/job/889639/quantitative-research-intern-2026)|
+
 
 
 ## Wolverine

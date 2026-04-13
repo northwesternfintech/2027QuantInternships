@@ -2,10 +2,4 @@ name: "TransMarketGroup"
 website: "https://www.transmarketgroup.com/careers"
 locations: "Chicago, Puerto Rico"
 notes: "Extremely trader led. Also take interns in Puerto Rico."
-roles:
-  - role_type: "SWE"
-    links:
-      - url: "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749906007?gh_jid=4749906007"
-  - role_type: "QT"
-    links:
-      - url: "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749915007?gh_jid=4749915007"
+roles: []

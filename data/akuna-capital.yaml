@@ -2,13 +2,4 @@ name: "Akuna Capital"
 website: "https://akunacapital.com/careers#careers"
 locations: "Chicago"
 notes: ""
-roles:
-  - role_type: "SWE"
-    links:
-      - url: "https://akunacapital.com/job-details?gh_jid=6996427"
-        label: "C++"
-      - url: "https://akunacapital.com/job-details?gh_jid=7055471"
-        label: "Python"
-  - role_type: "QR"
-    links:
-      - url: "https://akunacapital.com/job-details?gh_jid=7055793"
+roles: []

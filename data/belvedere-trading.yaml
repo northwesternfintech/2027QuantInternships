@@ -2,10 +2,4 @@ name: "Belvedere Trading"
 website: "http://www.belvederetrading.com/jobs/"
 locations: "Chicago"
 notes: ""
-roles:
-  - role_type: "SWE"
-    links:
-      - url: "https://jobs.lever.co/belvederetrading/eddfd030-1b27-46db-9ef6-5b65e1e2484c"
-  - role_type: "QT"
-    links:
-      - url: "https://jobs.lever.co/belvederetrading/ec52b73e-54b8-4f87-909d-a74cb288dc4d"
+roles: []

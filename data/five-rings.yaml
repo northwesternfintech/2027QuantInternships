@@ -2,13 +2,4 @@ name: "Five Rings"
 website: "https://fiverings.com/careers"
 locations: "NYC"
 notes: "Extremely school-selective - generally MIT only."
-roles:
-  - role_type: "SWE"
-    links:
-      - url: "https://job-boards.greenhouse.io/fiveringsllc/jobs/4806713008"
-  - role_type: "QR"
-    links:
-      - url: "https://job-boards.greenhouse.io/fiveringsllc/jobs/4563183008"
-  - role_type: "QT"
-    links:
-      - url: "https://job-boards.greenhouse.io/fiveringsllc/jobs/4613451008"
+roles: []
