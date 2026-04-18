@@ -491,7 +491,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|QT|[✅ ](https://careers.sig.com/job/10717/Quantitative-Trader-Internship-Summer-2027)|
 
 
 ## Squarepoint
