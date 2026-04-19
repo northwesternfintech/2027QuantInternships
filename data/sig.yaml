@@ -2,4 +2,7 @@ name: "SIG"
 website: "https://careers.sig.com/intern-openings"
 locations: "Bala Cynwyd"
 notes: "Has a huge poker culture. Fairly chill culture but pay tends to be on the lower side, especially for SWEs. Considered one of the best or the best firms for traders to start their career."
-roles: []
+roles:
+  - role_type: "QT"
+    links:
+      - url: "https://careers.sig.com/job/10717/Quantitative-Trader-Internship-Summer-2027"
