@@ -422,6 +422,19 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 
 
+## Quantic
+**Website**: [Quantic](https://job-boards.greenhouse.io/walleyecapital-external-students)
+
+**Locations**: Boston, MA
+
+**Notes**: 
+
+|Role|Links|
+|-------|-------|
+|QD|[✅ ](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006)|
+|QR|[✅ ](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006)|
+
+
 ## QuantLab
 **Website**: [QuantLab](https://www.quantlab.com/careers)
 
@@ -535,11 +548,12 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 **Locations**: Chicago, Puerto Rico
 
-**Notes**: Extremely trader led. Also take interns in Puerto Rico.
+**Notes**: Extremely trader-led. Also take interns in Puerto Rico.
 
 |Role|Links|
 |-------|-------|
-
+|DevOps/SRE|[✅ ](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007)|
+|QT|[✅ ](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007)|
 
 
 ## TrexQuant Investments LP
