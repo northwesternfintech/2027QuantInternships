@@ -533,12 +533,19 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 ## TransMarketGroup
 **Website**: [TransMarketGroup](https://www.transmarketgroup.com/careers)
 
-**Locations**: Chicago, Puerto Rico
+**Locations**: Chicago, Puerto Rico, Switzerland
 
-**Notes**: Extremely trader led. Also take interns in Puerto Rico.
+**Notes**: Extremely trader-led. Also take interns in Puerto Rico and Switzerland through the affiliate company.
 
 |Role|Links|
 |-------|-------|
+|QT|[✅ ](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007)|
+|SRE|[✅ ](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007)|
+
+**Switzerland Opportunity**
+|Role|Links|
+|-------|-------|
+|QD|[✅ ](https://job-boards.greenhouse.io/orycteropetransalpin/jobs/5151561007?gh_jid=5151561007)|
 
 
 
