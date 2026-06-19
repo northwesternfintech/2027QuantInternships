@@ -652,6 +652,19 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 
 
+## Walleye Capital
+**Website**: [Walleye Capital](https://www.walleyecapital.com)
+
+**Locations**: New York, NY; Boston, MA; Miami, FL
+
+**Notes**: Multi-strategy hedge fund. Quantic is Walleye's systematic investing platform with roles spanning quantitative research, quantitative development, and data science.
+
+|Role|Links|
+|-------|-------|
+|SWE|[✅ Risk Technology](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Technology](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006)|
+|QR|[✅ Volatility](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Data Science](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006)|
+
+
 ## Wolverine
 **Website**: [Wolverine](https://www.wolve.com/open-positions#lever-jobs-container)
 
