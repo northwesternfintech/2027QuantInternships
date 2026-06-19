@@ -8,21 +8,12 @@ roles:
     links:
       - url: "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006"
         label: "Risk Technology"
-      - url: "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006"
-        label: "Quant Dev"
-      - url: "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676615006"
-        label: "Vol Trading Dev"
       - url: "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006"
         label: "Technology"
         
   - role_type: "QR"
     links:
-      - url: "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006"
       - url: "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006"
         label: "Volatility"
-      - url: "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676585006"
-        label: "CEQR"
-      - url: "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679171006"
-        label: "PhD"
       - url: "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006"
         label: "Data Science"
