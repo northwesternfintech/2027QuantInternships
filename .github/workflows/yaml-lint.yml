@@ -1,0 +1,30 @@
+name: "[ci] YAML syntax check"
+
+on:
+  pull_request:
+    paths:
+      - "**.yml"
+      - "**.yaml"
+
+jobs:
+  yaml-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Get changed YAML files
+        id: changed-files
+        run: |
+          FILES=$(git diff --name-only origin/${{ github.base_ref }}...HEAD -- '*.yml' '*.yaml' | tr '\n' ' ')
+          echo "files=$FILES" >> $GITHUB_OUTPUT
+
+      - name: Syntax check YAML files
+        if: steps.changed-files.outputs.files != ''
+        run: |
+          pip install yamllint
+          for f in ${{ steps.changed-files.outputs.files }}; do
+            echo "Checking $f..."
+            yamllint -d relaxed "$f"
+          done
