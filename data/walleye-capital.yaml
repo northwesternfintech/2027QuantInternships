@@ -1,0 +1,19 @@
+name: "Walleye Capital"
+website: "https://www.walleyecapital.com"
+locations: "New York, NY; Boston, MA; Miami, FL"
+notes: "Multi-strategy hedge fund. Quantic is Walleye's systematic investing platform with roles spanning quantitative research, quantitative development, and data science."
+
+roles:
+  - role_type: "SWE"
+    links:
+      - url: "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006"
+        label: "Risk Technology"
+      - url: "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006"
+        label: "Technology"
+        
+  - role_type: "QR"
+    links:
+      - url: "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006"
+        label: "Volatility"
+      - url: "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006"
+        label: "Data Science"
