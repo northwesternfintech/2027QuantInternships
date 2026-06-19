@@ -6,7 +6,8 @@ roles:
   - role_type: "QT"
     links:
       - url: "https://careers.sig.com/job/10717/Quantitative-Trader-Internship-Summer-2027"
-  - role_type: "SWE":
+
+  - role_type: "SWE"
     links:
       - url: "https://careers.sig.com/intern-co-op/jobs/10838"
         label: "Quantitative Strategy Developer"
