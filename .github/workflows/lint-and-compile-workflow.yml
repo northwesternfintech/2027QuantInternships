@@ -7,19 +7,12 @@ on:
     paths:
       - data/**
       - src/lib/statics.ml
-  pull_request:
-    branches:
-      - "main"
-    paths:
-      - data/**
-      - src/lib/statics.ml
 
 jobs:
   compile:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pull-requests: write
     steps:
       - uses: actions/checkout@v3
 
@@ -53,9 +46,6 @@ jobs:
         
       - name: Commit and push changes to git
         run: |
-          git fetch
-          git checkout ${{ github.head_ref }}
-          git pull
           git add -f README.md
 
           if git diff --cached --quiet; then
@@ -65,7 +55,7 @@ jobs:
             git config user.email "github-actions[bot]@users.noreply.github.com"
 
             git commit -m "[bot] auto-update README.md"
-            git push origin HEAD:${{ github.head_ref }}
+            git push origin HEAD:main
           fi
 
       - name: 'Upload Artifact'
@@ -74,22 +64,5 @@ jobs:
           name: preview-readme-md
           path: README.md
           retention-days: 3
-
-      - name: Fetch artifact URL
-        id: artifact
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          ARTIFACT_ID=$(gh api repos/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts \
-            --jq '.artifacts[] | select(.name == "preview-readme-md") | .id')
-          echo "url=https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts/$ARTIFACT_ID" >> $GITHUB_OUTPUT
-
-      - name: Comment with full artifact link
-        uses: peter-evans/create-or-update-comment@v4
-        if: github.event_name == 'pull_request'
-        with:
-          issue-number: ${{ github.event.pull_request.number }}
-          body: |
-            ✅ [Download preview-readme-md artifact](${{ steps.artifact.outputs.url }})
 
 
