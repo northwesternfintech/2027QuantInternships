@@ -495,6 +495,19 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 
 
+## SIG
+**Website**: [SIG](https://careers.sig.com/intern-openings)
+
+**Locations**: Bala Cynwyd
+
+**Notes**: Has a huge poker culture. Fairly chill culture but pay tends to be on the lower side, especially for SWEs. Considered one of the best or the best firms for traders to start their career.
+
+|Role|Links|
+|-------|-------|
+|QT|[✅ ](https://careers.sig.com/job/10717/Quantitative-Trader-Internship-Summer-2027)|
+|SWE|[✅ Quantitative Strategy Developer](https://careers.sig.com/intern-co-op/jobs/10838)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Trading System Engineering](https://careers.sig.com/intern-co-op-technology/jobs/10837)|
+
+
 ## Squarepoint
 **Website**: [Squarepoint](https://www.squarepoint-capital.com/early-careers)
 
