@@ -134,8 +134,8 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 
 
-## Citadel / Citadel Securities
-**Website**: [Citadel / Citadel Securities](https://www.citadelsecurities.com/careers/students/internships/)
+## Citadel Securities
+**Website**: [Citadel Securities](https://www.citadelsecurities.com/careers/students/internships/)
 
 **Locations**: Chicago, NYC
 
@@ -143,11 +143,15 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
+|QT|[✅ ](https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/)|
+|QR|[✅ ](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ PhD](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-us/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ QR Engineer PhD](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/)|
+|ML|[✅ PhD](https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/)|
+|SWE|[✅ ](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/)|
+|HW|[✅ FPGA](https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/)|
 
 
-
-## 
-**Website**: [](https://www.citadel.com/careers/open-opportunities/students/internships/)
+## Citadel
+**Website**: [Citadel](https://www.citadel.com/careers/open-opportunities/students/internships/)
 
 **Locations**: Chicago, NYC
 
@@ -155,7 +159,9 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|QT|[✅ ](https://www.citadel.com/careers/details/quantitative-trader-equities-quantitative-research-intern-us/)|
+|QR|[✅ PhD](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/)|
+|SWE|[✅ ](https://www.citadel.com/careers/details/software-engineer-intern-us/)|
 
 
 ## Cubist
