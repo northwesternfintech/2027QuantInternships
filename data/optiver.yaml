@@ -2,4 +2,21 @@ name: "Optiver"
 website: "https://optiver.com/working-at-optiver/career-opportunities/?numberposts=10"
 locations: "Chicago, Austin"
 notes: "Tends to have the highest pay out of the three big Dutch firms (IMC, Optiver, Flow Traders) due to their marble bonus system."
-roles: []
+roles:
+  - role_type: "QT"
+    links:
+      - url: "https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/quantitative-intern-summer-2027/"
+
+  - role_type: "QR"
+    links:
+      - url: "https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/chicago/quantitative-research-intern-phd-summer-2027/"
+        label: "Chicago (PhD)"
+      - url: "https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/austin/quantitative-research-intern-phd-summer-2027/"
+        label: "Austin (PhD)"
+
+  - role_type: "SWE"
+    links:
+      - url: "https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/"
+        label: "Chicago"
+      - url: "https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/"
+        label: "Austin"
