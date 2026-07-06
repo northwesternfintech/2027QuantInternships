@@ -1,5 +1,17 @@
-name: ""
+name: "Citadel"
 website: "https://www.citadel.com/careers/open-opportunities/students/internships/"
 locations: "Chicago, NYC"
 notes: "The hedge fund side of Ken Griffin's Citadel. The quants are mostly on the Global Quantitative Strategies team (GQS). Citadel tends to be fairly school-selective."
-roles: []
+roles:
+  - role_type: "QT"
+    links:
+      - url: "https://www.citadel.com/careers/details/quantitative-trader-equities-quantitative-research-intern-us/"
+
+  - role_type: "QR"
+    links:
+      - url: "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/"
+        label: "PhD"
+
+  - role_type: "SWE"
+    links:
+      - url: "https://www.citadel.com/careers/details/software-engineer-intern-us/"

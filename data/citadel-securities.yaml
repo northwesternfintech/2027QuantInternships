@@ -1,5 +1,30 @@
-name: "Citadel / Citadel Securities"
+name: "Citadel Securities"
 website: "https://www.citadelsecurities.com/careers/students/internships/"
 locations: "Chicago, NYC"
 notes: "The market making arm of Citadel. The general perception is that the culture tends to be better at Citadel Securities vs Citadel LLC."
-roles: []
+roles:
+  - role_type: "QT"
+    links:
+      - url: "https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/"
+
+  - role_type: "QR"
+    links:
+      - url: "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/"
+      - url: "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-us/"
+        label: "PhD"
+      - url: "https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/"
+        label: "QR Engineer PhD"
+
+  - role_type: "ML"
+    links:
+      - url: "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/"
+        label: "PhD"
+
+  - role_type: "SWE"
+    links:
+      - url: "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/"
+
+  - role_type: "HW"
+    links:
+      - url: "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/"
+        label: "FPGA"
