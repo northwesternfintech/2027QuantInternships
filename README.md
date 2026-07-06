@@ -299,7 +299,10 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|QT|[✅ ](https://www.imc.com/us/careers/jobs/4823923101)|
+|QR|[✅ BS/MS](https://www.imc.com/us/careers/jobs/4907399101)&nbsp;&nbsp;&nbsp;&nbsp;[✅ PhD](https://www.imc.com/us/careers/jobs/4907400101)|
+|SWE|[✅ ](https://www.imc.com/us/careers/jobs/4823924101)|
+|HW|[✅ ](https://www.imc.com/us/careers/jobs/4823945101)|
 
 
 ## Jane Street
@@ -395,7 +398,9 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|QT|[✅ ](https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/quantitative-intern-summer-2027/)|
+|QR|[✅ Chicago (PhD)](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/chicago/quantitative-research-intern-phd-summer-2027/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Austin (PhD)](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/austin/quantitative-research-intern-phd-summer-2027/)|
+|SWE|[✅ Chicago](https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Austin](https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/)|
 
 
 ## PDT Partners
