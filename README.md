@@ -22,7 +22,10 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|QD|[✅ ](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481)|
+|QR|[✅ ](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614)|
+|SWE|[✅ C++](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Python](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853)&nbsp;&nbsp;&nbsp;&nbsp;[✅ C# .NET](https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Full Stack Web](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Platform](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856)|
+|HW|[✅ ](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880)|
 
 
 ## Ansatz Capital
@@ -197,7 +200,9 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|QT|[✅ ](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3141981)|
+|QR|[✅ ](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3151348)|
+|QD|[✅ ](https://www.drw.com/work-at-drw/listings/quantitative-developer-intern-python-3463992)|
 
 
 ## Five Rings
@@ -209,7 +214,8 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|QT|[✅ ](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008)|
+|QR|[✅ PhD](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008)|
 
 
 ## Flow Traders
@@ -289,11 +295,12 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 **Locations**: NYC
 
-**Notes**: The Algo Dev role at HRT is essentially Quantitative Research. HRT's culture seems to be pretty similar to JS and pay is similar too. HRT has a bigger focus on ML with their dedicated HRT AI Labs. Known for recruiting UG QRs, and for very collegial culture.
+**Notes**: We thank Hudson River Trading for sponsoring the Northwestern University Fintech Club. Please apply via [this link](https://grnh.se/f4cuomjz1us) and your application will be linked to this Github repo. The Algo Dev role at HRT is essentially Quantitative Research. HRT's culture seems to be pretty similar to JS and pay is similar too. HRT has a bigger focus on ML with their dedicated HRT AI Labs. Known for recruiting UG QRs, and for very collegial culture.
 
 |Role|Links|
 |-------|-------|
-
+|QR|[✅ ](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062&gh_src=f4cuomjz1us)&nbsp;&nbsp;&nbsp;&nbsp;[✅ PhD](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837&gh_src=f4cuomjz1us)|
+|SWE|[✅ ](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083&gh_src=f4cuomjz1us)|
 
 
 ## IMC Trading
@@ -320,7 +327,10 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|QT|[✅ ](https://www.janestreet.com/join-jane-street/position/8617344002/)|
+|QR|[✅ ](https://www.janestreet.com/join-jane-street/position/8498547002/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ ML](https://www.janestreet.com/join-jane-street/position/8384490002/)|
+|SWE|[✅ ](https://www.janestreet.com/join-jane-street/position/8599644002/)|
+|FPGA|[✅ ](https://www.janestreet.com/join-jane-street/position/8624440002/)|
 
 
 ## Jump Trading
@@ -509,13 +519,14 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 ## SIG
 **Website**: [SIG](https://careers.sig.com/intern-openings)
 
-**Locations**: Bala Cynwyd
+**Locations**: Bala Cynwyd, Chicago, NYC
 
 **Notes**: Has a huge poker culture. Fairly chill culture but pay tends to be on the lower side, especially for SWEs. Considered one of the best or the best firms for traders to start their career.
 
 |Role|Links|
 |-------|-------|
-|QT|[✅ ](https://careers.sig.com/job/10717/Quantitative-Trader-Internship-Summer-2027)|
+|QT|[✅ Chicago](https://careers.sig.com/quantitative-trading-internships-co-ops/jobs/10849)&nbsp;&nbsp;&nbsp;&nbsp;[✅ NYC](https://careers.sig.com/quantitative-trading-internships-co-ops/jobs/10718)|
+|QR|[✅ Master's (Bala Cynwyd)](https://careers.sig.com/quantitative-systematic-trading-quantitative-research/jobs/10819)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Master's (NYC)](https://careers.sig.com/phds-postdocs/jobs/10820)&nbsp;&nbsp;&nbsp;&nbsp;[✅ PhD (Bala Cynwyd)](https://careers.sig.com/phds-postdocs/jobs/10817)&nbsp;&nbsp;&nbsp;&nbsp;[✅ PhD (NYC)](https://careers.sig.com/phds-postdocs/jobs/10818)|
 |SWE|[✅ Quantitative Strategy Developer](https://careers.sig.com/intern-co-op/jobs/10838)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Trading System Engineering](https://careers.sig.com/intern-co-op-technology/jobs/10837)|
 
 
