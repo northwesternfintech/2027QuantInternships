@@ -194,15 +194,15 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 ## DRW
 **Website**: [DRW](https://drw.com/work-at-drw/category/campus)
 
-**Locations**: Chicago
+**Locations**: Chicago, NYC
 
 **Notes**: Perception is that DRWers tend to have a good WLB but teams are usually siloed. Known for their PM type culture and relatively fluid roles.
 
 |Role|Links|
 |-------|-------|
-|QT|[✅ ](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3141981)|
-|QR|[✅ ](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3151348)|
-|QD|[✅ ](https://www.drw.com/work-at-drw/listings/quantitative-developer-intern-python-3463992)|
+|QR|[✅ ](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670)|
+|SWE|[✅ ](https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328)|
+|FPGA|[✅ ](https://www.drw.com/work-at-drw/listings/fpga-intern-3484423)|
 
 
 ## Five Rings
@@ -216,6 +216,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 |-------|-------|
 |QT|[✅ ](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008)|
 |QR|[✅ PhD](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008)|
+|SWE|[✅ ](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008)|
 
 
 ## Flow Traders
@@ -227,7 +228,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|QT|[✅ ](https://www.flowtraders.com/careers/job-description/8047166)|
 
 
 ## G-Research
