@@ -2,4 +2,28 @@ name: "Akuna Capital"
 website: "https://akunacapital.com/careers#careers"
 locations: "Chicago"
 notes: ""
-roles: []
+roles:
+  - role_type: "QD"
+    links:
+      - url: "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481"
+
+  - role_type: "QR"
+    links:
+      - url: "https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614"
+
+  - role_type: "SWE"
+    links:
+      - url: "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847"
+        label: "C++"
+      - url: "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853"
+        label: "Python"
+      - url: "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886"
+        label: "C# .NET"
+      - url: "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893"
+        label: "Full Stack Web"
+      - url: "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856"
+        label: "Platform"
+
+  - role_type: "HW"
+    links:
+      - url: "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880"

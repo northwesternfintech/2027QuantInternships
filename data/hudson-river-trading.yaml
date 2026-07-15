@@ -1,5 +1,14 @@
 name: "Hudson River Trading"
 website: "https://www.hudsonrivertrading.com/careers/"
 locations: "NYC"
-notes: "The Algo Dev role at HRT is essentially Quantitative Research. HRT's culture seems to be pretty similar to JS and pay is similar too. HRT has a bigger focus on ML with their dedicated HRT AI Labs. Known for recruiting UG QRs, and for very collegial culture."
-roles: []
+notes: "We thank Hudson River Trading for sponsoring the Northwestern University Fintech Club. Please apply via [this link](https://grnh.se/f4cuomjz1us) and your application will be linked to this Github repo. The Algo Dev role at HRT is essentially Quantitative Research. HRT's culture seems to be pretty similar to JS and pay is similar too. HRT has a bigger focus on ML with their dedicated HRT AI Labs. Known for recruiting UG QRs, and for very collegial culture."
+roles:
+  - role_type: "QR"
+    links:
+      - url: "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062&gh_src=f4cuomjz1us"
+      - url: "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837&gh_src=f4cuomjz1us"
+        label: "PhD"
+
+  - role_type: "SWE"
+    links:
+      - url: "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083&gh_src=f4cuomjz1us"
