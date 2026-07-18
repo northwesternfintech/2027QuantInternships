@@ -1,0 +1,19 @@
+name: "Seven Research"
+website: "https://www.sevenresearch.com/careers"
+locations: "NYC"
+notes: "Fully systematic, same firm as 佳期投资 based in Shanghai."
+roles:
+  - role_type: "QR"
+    links:
+      - url: "https://job-boards.greenhouse.io/sevenresearch/jobs/4894946008"
+        label: "Quant Research"
+      - url: "https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008"
+        label: "Deep Learning"
+
+  - role_type: "QD"
+    links:
+      - url: "https://job-boards.greenhouse.io/sevenresearch/jobs/4895082008"
+
+  - role_type: "SWE"
+    links:
+      - url: "https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008"
