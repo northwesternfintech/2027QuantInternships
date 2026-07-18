@@ -403,7 +403,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|SWE|[✅ ](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003)|
 
 
 ## Optiver
@@ -515,6 +515,20 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 |Role|Links|
 |-------|-------|
 
+
+
+## Seven Research
+**Website**: [Seven Research](https://www.sevenresearch.com/careers)
+
+**Locations**: NYC
+
+**Notes**: Fully systematic, same firm as 佳期投资 based in Shanghai.
+
+|Role|Links|
+|-------|-------|
+|QR|[✅ Quant Research](https://job-boards.greenhouse.io/sevenresearch/jobs/4894946008)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Deep Learning](https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008)|
+|QD|[✅ ](https://job-boards.greenhouse.io/sevenresearch/jobs/4895082008)|
+|SWE|[✅ ](https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008)|
 
 
 ## SIG
