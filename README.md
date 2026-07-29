@@ -663,7 +663,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|QR|[✅ PhD](https://job-boards.greenhouse.io/virtu/jobs/8624424002)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Undergrad](https://job-boards.greenhouse.io/virtu/jobs/8142539002)|
 
 
 ## Voleon
