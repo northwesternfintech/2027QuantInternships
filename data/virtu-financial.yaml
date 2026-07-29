@@ -2,4 +2,10 @@ name: "Virtu Financial"
 website: "https://www.virtu.com/careers/"
 locations: "NYC, Austin"
 notes: "Known for being very HFT MM heavy."
-roles: []
+roles:
+  - role_type: "QR"
+    links:
+      - url: "https://job-boards.greenhouse.io/virtu/jobs/8624424002"
+        label: "PhD"
+      - url: "https://job-boards.greenhouse.io/virtu/jobs/8142539002"
+        label: "Undergrad"
