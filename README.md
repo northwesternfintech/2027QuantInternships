@@ -687,7 +687,9 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|QD|[✅ ](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224862009)|
+|QR|[✅ ](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4226247009)|
+|QR Fellowship|[✅ ](https://www.voloridge.com/jobs/voloridgeinvestmentmanagement/4224950009)|
 
 
 ## Walleye Capital
